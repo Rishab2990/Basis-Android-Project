@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Android development**
 
-- 🤝 I’m looking for help with **Calculator**
-
 - 📫 How to reach me **rishabsingh9821@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
